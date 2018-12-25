@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1545419937 source:c:\users\sadaf\desktop\lab-17\graphtype.cpp
+	"graphtype.h"
+	"stacktype.h"
+	"quetype.h"
+	<bits/stdc++.h>
+	<iostream>
+
+1545419937 c:\users\sadaf\desktop\lab-17\graphtype.h
+	"stacktype.h"
+	"stacktype.cpp"
+	"quetype.h"
+	"quetype.cpp"
+
+1545419937 c:\users\sadaf\desktop\lab-17\stacktype.h
+
+1545419937 c:\users\sadaf\desktop\lab-17\stacktype.cpp
+	<iostream>
+	"stacktype.h"
+
+1545419937 c:\users\sadaf\desktop\lab-17\quetype.h
+
+1545419937 c:\users\sadaf\desktop\lab-17\quetype.cpp
+	"quetype.h"
+	<iostream>
+
+1545419937 source:c:\users\sadaf\desktop\lab-17\quetype.cpp
+	"quetype.h"
+	<iostream>
+
+1545419937 source:c:\users\sadaf\desktop\lab-17\stacktype.cpp
+	<iostream>
+	"stacktype.h"
+
